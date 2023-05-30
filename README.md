@@ -1,7 +1,7 @@
 <img alt="programmer" width="1000" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align="right" alt="programmer" width="500" src="https://programiz.pro/resources/content/images/2022/08/how-to-become-a-programmer-2.png">
 <h1 align="center">Hi 👋, I'm Barbaria hakim</h1>
-<h3 align="center">A passionate frontend developer from tunisa</h3>
+<h3 align="center">A passionate developer from tunisa</h3>
 
 - 🔭 I’m currently working on **Personal portfolio website**
 
