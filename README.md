@@ -1,7 +1,11 @@
 # Hi, I'm Hakim 👋
 
+## 🚀 About Me
+I'm a passionate full-stack developer with experience in a wide range of technologies. I love creating solutions that make life easier and more efficient. When I'm not coding, you'll find me hiking or capturing moments with my camera.
+
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-barbaria-7574b3232/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hakimbarbaria)
 
 ### 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -19,9 +23,11 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 
 ### 📊 GitHub Stats
-![Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimBarbaria&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimBarbaria&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hakimBarbaria&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakimBarbaria&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Hakim's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimBarbaria&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimBarbaria&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### 🚀 Current Projects
 - [Portfolio](https://github.com/hakimBarbaria/portfolio) - My personal portfolio website.
@@ -39,3 +45,7 @@
 
 ### 📫 How to Reach Me
 - Email: [hakimbarbaria589@gmail.com](mailto:hakimbarbaria589@gmail.com)
+
+### 📈 GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakimBarbaria&theme=react-dark&hide_title=true&bg_color=000000&color=ffffff)
+
