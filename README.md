@@ -35,7 +35,7 @@ I'm a passionate full-stack developer with experience in a wide range of technol
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hakimBarbaria&theme=radical)
+  <img src="https://github-profile-trophy.vercel.app/?username=hakimBarbaria&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ### 📕 Latest Blog Posts
@@ -51,5 +51,6 @@ I'm a passionate full-stack developer with experience in a wide range of technol
 
 ### 👁️ Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/hakimBarbaria/count.svg)
+
 
 
