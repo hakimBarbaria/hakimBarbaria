@@ -21,6 +21,9 @@ I'm a passionate full-stack developer with experience in a wide range of technol
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flowbite-3B82F6?style=flat&logo=flowbite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
@@ -51,6 +54,3 @@ I'm a passionate full-stack developer with experience in a wide range of technol
 
 ### 👁️ Profile Visitors
 ![Visitor Count](https://profile-counter.glitch.me/hakimBarbaria/count.svg)
-
-
-
