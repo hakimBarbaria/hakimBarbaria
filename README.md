@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate full-stack developer with expertise across multiple tech stacks. With 3+ years of experience, I specialize in creating robust, scalable applications with beautiful interfaces. I thrive at the intersection of technology and design.
+I'm a passionate full-stack developer with expertise across multiple tech stacks. With 3+ years of experience, I specialize in creating robust, scalable applications with beautiful interfaces.
 
 🔭 I'm currently working on **an AI-powered productivity suite**  
 🌱 I'm learning **Rust and advanced cloud architecture**  
@@ -31,33 +31,17 @@ I'm a passionate full-stack developer with expertise across multiple tech stacks
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
@@ -79,34 +63,6 @@ I'm a passionate full-stack developer with expertise across multiple tech stacks
 
 ---
 
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/hakimBarbaria/portfolio/pull/23) in [hakimBarbaria/portfolio](https://github.com/hakimBarbaria/portfolio)
-2. 🚀 Published release [v1.2.0](https://github.com/hakimBarbaria/ai-productivity-suite/releases/tag/v1.2.0)
-3. 💪 Opened PR [#42](https://github.com/open-source-project/main/pull/42) in [open-source-project/main](https://github.com/open-source-project/main)
-4. � Created new repository [hakimBarbaria/cloud-architecture-patterns](https://github.com/hakimBarbaria/cloud-architecture-patterns)
-5. � Started following [@tech-influencer](https://github.com/tech-influencer)
-<!--END_SECTION:activity-->
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimBarbaria&repo=portfolio&theme=radical)](https://github.com/hakimBarbaria/portfolio)
-
-### 🤖 AI Productivity Suite
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimBarbaria&repo=ai-productivity-suite&theme=radical)](https://github.com/hakimBarbaria/ai-productivity-suite)
-
----
-
-## 📝 Latest Blog Posts
-- [Microservices Architecture: Best Practices](https://medium.com/@hakim/microservices-best-practices)
-- [Flutter State Management: The Ultimate Guide](https://medium.com/@hakim/flutter-state-management)
-- [Building Scalable APIs with GraphQL](https://medium.com/@hakim/graphql-scalability)
-
----
-
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/hakim-barbaria-7574b3232" target="blank">
@@ -115,9 +71,6 @@ I'm a passionate full-stack developer with expertise across multiple tech stacks
   <a href="https://twitter.com/yourusername" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@hakim" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hakim" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -125,15 +78,4 @@ I'm a passionate full-stack developer with expertise across multiple tech stacks
 ## 👀 Profile Views
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hakimBarbaria&label=Profile%20views&color=0e75b6&style=flat" alt="hakimBarbaria" /> 
-</p>
-
----
-
-## ✨ Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/hakimBarbaria/count.svg)
-
----
-
-<p align="center">
-  <img src="https://github.com/hakimBarbaria/hakimBarbaria/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
