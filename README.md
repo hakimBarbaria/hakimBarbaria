@@ -1,92 +1,62 @@
-<!-- README.md -->
+<h1 align="center">Hi there, I'm Hakim Barbaria 👋</h1>
+
+<h3 align="center">Computer Science Engineering Student · Full-Stack Developer · Problem Solver</h3>
 
 <p align="center">
-  <img src="./neofetch_panel.png" alt="hakimBarbaria neofetch" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+apps+%F0%9F%9A%80;Flutter+%7C+Laravel+%7C+Spring+Boot+%7C+React;Currently+building+HandyMate+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Salam 🙏 I'm Hakim Barbaria — Full-Stack Engineer | UI/UX Craftsman</b><br>
-  Turning Ideas into Reality 🧠 · Passionate about Clean Code ✨ and Beautiful Designs
-</p>
-
----
-
-### 🚀 About Me
-
-🎓 Engineer | 💻 Developer | 🎨 Designer
-💡 I love transforming **creative ideas** into **clean, scalable, and powerful applications**.
-🔭 Currently working on: **HandyMate** – an intelligent repair request platform for Tunisia 🇹🇳
-🎯 Mission: Build tools that make lives easier, prettier, and smarter.
-
----
-
-### 🛠️ My Stack
-
-#### 👨‍💻 Languages
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🚀 Frameworks
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-
-#### 🛢️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📈 My GitHub Universe
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakimBarbaria&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimBarbaria&theme=radical" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hakimBarbaria&theme=github_dark" />
+  <a href="https://linkedin.com/in/hakim-barbaria-7574b3232"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hakimbarbaria589@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/hakimBarbaria"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧩 Highlights & Achievements
+### 🧑‍💻 About Me
 
-- 🏆 Passed national engineering competition 💪
-- 📱 Published **Expert Réparation** app in Tunisia 🇹🇳
-- 🔥 Mastered both frontend & backend, from **UI design to database tuning**
-- 🎓 Studying at ENICarthage – Hungry to learn, ready to lead.
+- 🎓 Engineering student at **ENICarthage**
+- 💡 I enjoy turning ideas into **clean, scalable, and well-designed software**
+- 🔭 Currently building **HandyMate** — a smart repair-request platform for Tunisia 🇹🇳
+- 🏆 National engineering competition finalist
+- 📱 Published **Expert Réparation** on the Tunisian market
+- 🌱 Always exploring new frameworks, tools, and design patterns
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,spring,python,kotlin,js,react,vue,laravel,postgres,firebase,figma,git&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakimBarbaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimBarbaria&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimBarbaria&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [HandyMate](https://github.com/hakimBarbaria/handymate) | 📱 A Flutter app to manage repair requests | Flutter, Firebase, EmailJS |
-| [ERP Dashboard](https://github.com/hakimBarbaria/erp-dashboard) | 💼 Manage inventory, finance, and HR | Spring Boot, PostgreSQL, React |
-| [Portfolio Web](https://github.com/hakimBarbaria/portfolio) | 🧑‍💼 Personal portfolio and blog | Vue.js, Tailwind, Netlify |
+|---|---|---|
+| 📱 [HandyMate](https://github.com/hakimBarbaria/handymate) | Smart repair-request platform for Tunisia | Flutter, Firebase, EmailJS |
+| 💼 [ERP Dashboard](https://github.com/hakimBarbaria/erp-dashboard) | Inventory, finance & HR management system | Spring Boot, PostgreSQL, React |
+| 🌐 [Portfolio](https://github.com/hakimBarbaria/portfolio) | Personal portfolio & blog | Vue.js, Tailwind, Netlify |
 
 ---
 
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:hakimbarbaria589@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/hakim-barbaria-7574b3232"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/hakimBarbaria"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-### 🐍 Dynamic Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hakimBarbaria/hakimBarbaria/output/github-contribution-grid-snake.svg" />
@@ -94,10 +64,8 @@
 
 ---
 
-### 👁 Visitor Badge
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakimBarbaria&label=Visitors&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hakimBarbaria&label=Profile+Views&color=58A6FF&style=flat" />
 </p>
 
----
+<p align="center"><i>Thanks for stopping by — let's build something great together 🚀</i></p>
