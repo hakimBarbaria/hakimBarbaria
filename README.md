@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakimBarbaria&label=Profile+Views&color=58A6FF&style=flat" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hakimBarbaria.hakimBarbaria&left_color=grey&right_color=blue" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — let's build something great together 🚀</i></p>
