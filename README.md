@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Engineering Student · Full-Stack Developer · Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+apps+%F0%9F%9A%80;Flutter+%7C+Laravel+%7C+Spring+Boot+%7C+React;Currently+building+HandyMate+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+apps+%F0%9F%9A%80;Flutter+%7C+Laravel+%7C+Spring+Boot+%7C+React;Currently+building+HandyMate+%F0%9F%93%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hakimBarbaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimBarbaria&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=hakimBarbaria&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
