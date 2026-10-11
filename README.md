@@ -1,27 +1,8 @@
 <!-- README.md -->
 
-```
-RNBDDBBWWBBDDBNRRRMMRRNWBDHHHHHKK@@$UU88&&&&&&   hakimBarbaria@github
-MWWWR0QQQ00RMRMNWBK@BRWHK$UUUU888888888888UUUU   ---------------------
-Q00RR000RMNWWWBWBDHHHDDDHKKHHKK@@KKKKKKHHHDDDB   OS: Tunisia Based Developer
-0RRMNNMR0RMNNNMUhpFpgXUBDDDDDDBWNNNRRRRRRRRRRR   Host: ENICarthage - Engineering Student
-R000QQQQQ00QQQA6S6qSpw#G00000R000QQQQ000RRRRRM   Kernel: Full-Stack Engineer
-ZbbbYYYkOAAAAAmdhVXqCTnL$BWNNNRRRRRRRRRRRRRRRR   IDE: VS Code / Android Studio
-OYbkk4V4EPXXXXmp#zpuezTLhgXPPPPXXPGZbZZZGZZbbb
-8&&OAUOOAAOZOOXgXhqww2CJVGGGGZbZGbYbYYOAOOOOYY   Languages.Programming: Dart, Java, Python, Kotlin, JS
-YYbGPZGGGGXEXhJj2hhFJnzsIygEgPPPPGGGGGZbbZGbYY   Languages.Frameworks: Flutter, Laravel, React, Spring
-bYGPZGgEVVpfna[ato#yCwe*]qn[z2V44gXggXgXXggggX   Languages.Database: PostgreSQL, Oracle, Firebase
-XbZdEg6yna{%vlcxcrl!ju1cx}x%x*T4gEgE44EEEXEEEE   Tools: Figma
-ZGXgfLaI{ri)>>>i)\<\irliv>\>vc*u44Vdd44EgEE4VV
-qfj1}slxv<|)|/)\|<\\)\\))|\<)i%}CEddVd44EgE4dV   Currently Building: HandyMate
-lx%vi)>>\|+""//++"""/+/|"|)\>>)s?qVVhV4dd4VhVd   Achievement: National Engineering Competition winner
-)>><<>><v|/|"//+=+///^=/|))\<>>l*yX4dhhVhhgqSg
-                                                 Contact
-                                                 -------
-                                                 Email: hakimbarbaria589@gmail.com
-                                                 LinkedIn: hakim-barbaria-7574b3232
-                                                 GitHub: hakimBarbaria
-```
+<p align="center">
+  <img src="./neofetch_panel.png" alt="hakimBarbaria neofetch" width="100%">
+</p>
 
 <p align="center">
   <b>Salam 🙏 I'm Hakim Barbaria — Full-Stack Engineer | UI/UX Craftsman</b><br>
